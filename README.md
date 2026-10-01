@@ -20,7 +20,36 @@ npm start
 npm test
 ```
 
-Once running, visit: **[http://localhost:3000](http://localhost:3000)**
+Once running, visit: Edited .env
+Edited env.js
+Used tool: manage_task
+Ran command: `node server/server.js`
+Used tool: manage_task
+
+### 🌐 Your TripForge AI Project Link
+
+Your new project is running on **Port 5050** to avoid any conflict with your old project:
+
+👉 **[http://localhost:5050](http://localhost:5050)**
+
+---
+
+### 🔑 Demo Login Accounts
+
+| Role | Email | Password | What You Can Test |
+| :--- | :--- | :--- | :--- |
+| **Admin** | `admin@tripforge.com` | `admin123` | Analytics dashboard, dynamic pricing, add/edit packages, fake booking detection |
+| **Traveler** | `traveler@tripforge.com` | `traveler123` | AI Composer, RedBus-style seat selection, live bookings, QR tickets, Disruption Guardian |
+
+---
+
+### 🚀 Direct Links Inside the App
+
+- **Home & AI Composer:** [http://localhost:5050/](http://localhost:5050/)
+- **Browse 24+ Indian Packages:** [http://localhost:5050/packages.html](http://localhost:5050/packages.html)
+- **Admin Dashboard:** [http://localhost:5050/admin.html](http://localhost:5050/admin.html)
+- **Compare Destinations:** [http://localhost:5050/compare.html](http://localhost:5050/compare.html)
+- **Group Consensus Engine:** [http://localhost:5050/group.html](http://localhost:5050/group.html)
 
 ---
 
